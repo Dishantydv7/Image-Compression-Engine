@@ -30,7 +30,7 @@ This repository contains a JPEG-like image compression engine built using Python
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Utkarsh7xo/Image-Compression-Engine.git
+   git clone https://github.com/Dishantydv7/Image-Compression-Engine.git
    ```
 2. **Navigate to the project directory:**
    ```bash
